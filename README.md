@@ -16,5 +16,5 @@ Run Tailwind CLI
 npm run watch
 ```
 
-![Challenge Preview](src/imagesimages/clipboard.png)
+![Challenge Preview](src/images/clipboard.png)
 
